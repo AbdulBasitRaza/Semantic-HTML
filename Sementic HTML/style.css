@@ -1,0 +1,51 @@
+* {
+    text-align: center;
+}
+
+header {
+    background-color: rgb(81, 177, 206);
+}
+
+nav {
+    background-color: aquamarine;
+}
+
+.donumber {
+    display: flex;
+    justify-content: center;
+}
+
+aside {
+    background-color: pink;
+    width: 30%;
+}
+
+main {
+    background-color: rgb(115, 102, 230);
+    width: 70%;
+    margin-left: 2%;
+    padding: 2%;
+}
+
+article {
+    background-color: burlywood;
+    padding: 2%;
+}
+
+figure {
+    background-color: rgb(90, 65, 180);
+}
+
+p {
+    background-color: rgb(185, 183, 33);
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+section {
+    background-color: tomato;
+}
+
+footer {
+    background-color: purple;
+}
